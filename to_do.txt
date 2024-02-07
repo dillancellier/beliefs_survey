@@ -1,0 +1,3 @@
+-- Word cloud function for individuals to match the freq of certain tokens to their hypothesis alignment
+-- analysis of internal consistency across hypothesis for numerical answers
+-- for each numerical response question, what is the average rating??
